@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.db
+chroma_db/
+okf_bundle/
+pdfs/*.pdf
+answers.json
+answers.csv
+venv/
+.venv/
